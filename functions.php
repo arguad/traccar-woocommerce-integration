@@ -92,6 +92,7 @@ require_once ('/var/www/pw.php');
 	}
 
 			// Password generator code
+			// needs to be changed to hashing method for security.
 			$chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 			$userPassword = substr(str_shuffle($chars), 0, 10);
 
