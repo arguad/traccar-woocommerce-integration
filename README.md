@@ -2,7 +2,7 @@
 Integrate woocommerce payment system with traccar
 
 Project
-Integrate WooCommerce + WooCommerce Subscriptions with Traccar  (https://www.gpyes.com.au "GPS Tracking System")
+Integrate WooCommerce + WooCommerce Subscriptions with Traccar [GPS Tracking System](https://www.gpyes.com.au "GPS Tracking System") 
 
 Traccar is the leading GPS tracking software. Vehicle and personal tracking. Self hosting and cloud-based solution. Real time view, reports, notifications.
 
